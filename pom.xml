@@ -171,7 +171,7 @@
         
         <!--
         Simple Logging Facade for Java
-        Java的簡單日誌記錄外觀（SLF4J）可作為各種日誌記錄框架（例如java.util.logging，logback，log4j）的簡單外觀，允許最終用戶在部署 時插入所需的日誌記錄框架。
+        Java的簡單日誌記錄外觀（SLF4J）可作為各種日誌記錄框架（例如java.util.logging，logback，log4j）的簡單外觀，允許最終用戶在部署 時插入所需的日誌記錄框架。
         -->
         <dependency>
             <groupId>org.slf4j</groupId>
